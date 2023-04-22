@@ -1,4 +1,3 @@
 # base-unit-trireme
 
-This is a template repo.
-
+Contains the `Trireme` `Unit` class.
